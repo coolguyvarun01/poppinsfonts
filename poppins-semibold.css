@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Poppins SemiBold';
+  font-style: normal;
+  font-weight: 400;
+  src: url('https://coolguyvarun01.github.io/poppinsfonts/Poppins-SemiBold.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Poppins SemiBold';
+  font-style: italic;
+  font-weight: 400;
+  src: url('https://coolguyvarun01.github.io/poppinsfonts/Poppins-SemiBoldItalic.ttf') format('truetype');
+}
