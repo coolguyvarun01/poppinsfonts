@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Poppins ExtraLight';
+  font-style: normal;
+  font-weight: 400;
+  src: url('https://coolguyvarun01.github.io/poppinsfonts/Poppins-ExtraLight.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Poppins ExtraLight';
+  font-style: italic;
+  font-weight: 400;
+  src: url('https://coolguyvarun01.github.io/poppinsfonts/Poppins-ExtraLightItalic.ttf') format('truetype');
+}
