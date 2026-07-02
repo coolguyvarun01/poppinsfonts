@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Poppins Bold';
+  font-style: normal;
+  font-weight: 400;
+  src: url('https://coolguyvarun01.github.io/poppinsfonts/Poppins-Bold.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Poppins Bold';
+  font-style: italic;
+  font-weight: 400;
+  src: url('https://coolguyvarun01.github.io/poppinsfonts/Poppins-BoldItalic.ttf') format('truetype');
+}
