@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Poppins Thin';
+  font-style: normal;
+  font-weight: 400;
+  src: url('https://coolguyvarun01.github.io/poppinsfonts/Poppins-Thin.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Poppins Thin';
+  font-style: italic;
+  font-weight: 400;
+  src: url('https://coolguyvarun01.github.io/poppinsfonts/Poppins-ThinItalic.ttf') format('truetype');
+}
